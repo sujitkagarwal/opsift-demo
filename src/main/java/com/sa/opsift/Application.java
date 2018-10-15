@@ -19,6 +19,6 @@ class TestController{
 
 	@GetMapping("/hello")
 	String getHello(){
-		return "first application in open sift";
+		return "first application in open sift11";
 	}
 }
